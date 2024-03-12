@@ -5,8 +5,6 @@ Python-developer.
 ### Running projects
 
 Django:
-[Tastygram](https://tastygram.ddns.net/)
-[Blogicum](https://blogicum.ddns.net/)
 [Давай поговорим](https://dpogovorim.ru/)
 
 
